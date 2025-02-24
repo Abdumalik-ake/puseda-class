@@ -1,0 +1,82 @@
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+nav{
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.box div{
+    width: 35%;
+}
+.box button{
+    width: 197px;
+    height: 49px;
+    border-radius: 20px;
+    background-color: rgb(124, 124, 214);
+    color: aliceblue;
+    border: none;
+}
+a:hover{
+    color: red;
+    font-size: 20px;
+
+}
+h1{
+    text-align: center;
+    
+}
+p{
+    text-align: center;
+}
+.sss{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(120, 120, 241);
+    border-radius: 23px;
+}
+.hi {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+
+}
+.hi div{
+    background-color: rgb(129, 126, 126);
+    color: aliceblue;
+    text-align: center;
+    border-radius: 22px;
+    width: 250px;
+    height: 250px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+button{
+   text-align: center;
+   width: 100px;
+   height: 40px;
+   background-color: aliceblue;
+   color: blue;
+   border-radius: 20px;
+   margin: 0 auto;
+
+   }
+  
+
+    
